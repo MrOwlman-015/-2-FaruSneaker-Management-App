@@ -1,0 +1,272 @@
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timekeeping.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+E:\HOC TAP\PROJECT\CNPM\FaruSneaker\FaruSneaker\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timekeeping.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timekeeping.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.service.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.paymentdetail.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Customer_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Employee_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Products_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.paymentdetail.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.service.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Service_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Payment_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Account_co.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Salary.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timek.resources
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\itextsharp.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\itextsharp.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Account_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Customer_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Employee_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Payment_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Products_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Service_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.paymentdetail.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Salary.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.service.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timek.resources
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.exe
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.deps.json
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.runtimeconfig.json
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\itextsharp.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\BUS.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\bin\Debug\net6.0-windows\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.customer.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.employee.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Login.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Mainpage.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Account_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Customer_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Employee_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Payment_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Products_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Object.Service_co.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.payment.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.paymentdetail.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.products.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Properties.Resources.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Salary.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.service.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.Timek.resources
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.GenerateResource.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfoInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.AssemblyInfo.cs
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.csproj.CopyComplete
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\refint\FaruSneaker.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\FaruSneaker.genruntimeconfig.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\FaruSneaker\obj\Debug\net6.0-windows\ref\FaruSneaker.dll

@@ -1,0 +1,24 @@
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\obj\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker\DAL\obj\Debug\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.dll
+E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.pdb
