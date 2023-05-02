@@ -38,14 +38,23 @@ namespace FaruSneaker.Object
 
         private void btn_Add_Click(object sender, EventArgs e)
         {
-            string id = txt_ID.Text;
-            string name = txt_Name.Text;
-            int price = Convert.ToInt32(txt_Price.Text);
-            string des = rtx_Description.Text;
-            if (sl.add(id, name, price, des))
+            if (txt_Name.Text == "" || txt_Price.Text == "" || rtx_Description.Text == "")
             {
-                btn_Clear_Click(sender, e);
-                load();
+                MessageBox.Show("Hãy đảm bảo đầy đủ nội dung trước khi thực hiện!");
+                return;
+            }
+            else
+            {
+                string id = txt_ID.Text;
+                string name = txt_Name.Text;
+                int price = Convert.ToInt32(txt_Price.Text);
+                string des = rtx_Description.Text;
+                if (sl.add(id, name, price, des))
+                {
+                    MessageBox.Show("Thành công!");
+                    btn_Clear_Click(sender, e);
+                    load();
+                }
             }
         }
 
@@ -54,6 +63,7 @@ namespace FaruSneaker.Object
             string id = txt_ID.Text;
             if (sl.remove(id))
             {
+                MessageBox.Show("Thành công!");
                 btn_Clear_Click(sender, e);
                 load();
             }
@@ -67,6 +77,7 @@ namespace FaruSneaker.Object
             string des = rtx_Description.Text;
             if (sl.update(id, name, price, des))
             {
+                MessageBox.Show("Thành công!");
                 btn_Clear_Click(sender, e);
                 load();
             }
@@ -119,6 +130,25 @@ namespace FaruSneaker.Object
             txt_ID.ReadOnly = true;
             load();
             setEditingMode(false);
+        }
+
+        private void btn_search_Click(object sender, EventArgs e)
+        {
+            string searchname = txt_search.Text;
+            DataTable res = sl.searchByName(searchname);
+            if (res.Rows.Count == 0)
+            {
+                MessageBox.Show("Không tìm thấy dịch vụ!");
+                load();
+            }
+            else
+            {
+                dgv_service.DataSource = res;
+            }
+            if (searchname == "")
+            {
+                load();
+            }
         }
     }
 }

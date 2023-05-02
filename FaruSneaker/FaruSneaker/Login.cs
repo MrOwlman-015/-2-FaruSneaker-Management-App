@@ -16,17 +16,10 @@ namespace FaruSneaker
 
         bool check(string username, string password, int roleuser)
         {
-            return data.check(username, password, 0);
+            return data.check(username, password, roleuser);
         }
 
-
-        private void roundpictureBox1_Click(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
+        /*private void btn_SignIn_Click(object sender, EventArgs e)
         {
             if (txt_username.Text == "")
             {
@@ -49,20 +42,63 @@ namespace FaruSneaker
                         Mainpage mainpage = new Mainpage();
                         this.Hide();
                         mainpage.ShowDialog();
-                        this.Close();
+                        txt_username.Text = "";
+                        txt_pass.Text = "";
+                        this.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Tài khoản không chính xác!");
                     }
                 }
             }
-        }
+        }*/
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void btn_SignIn_Click_1(object sender, EventArgs e)
         {
-
-        }
-
-        private void Login_Load(object sender, EventArgs e)
-        {
-
+            if (txt_username.Text == "")
+            {
+                MessageBox.Show("Vui lòng nhập tên đăng nhập!");
+                return;
+            }
+            else
+            {
+                if (txt_pass.Text == "")
+                {
+                    MessageBox.Show("Vui lòng nhập mật khẩu!");
+                    return;
+                }
+                else
+                {
+                    string user_name = txt_username.Text;
+                    string password = txt_pass.Text;
+                    if (check(user_name, password, 0))
+                    {
+                        Mainpage mainpage = new Mainpage();
+                        this.Hide();
+                        mainpage.ShowDialog();
+                        txt_username.Text = "";
+                        txt_pass.Text = "";
+                        this.Show();
+                    }
+                    else
+                    {
+                        if (check(user_name, password, 1))
+                        {
+                            Mainpage_staff mp = new Mainpage_staff();
+                            this.Hide();
+                            mp.ShowDialog();
+                            txt_username.Text = "";
+                            txt_pass.Text = "";
+                            this.Show();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Tài khoản không chính xác!");
+                        }
+                    }
+                }
+            }
         }
     }
 }

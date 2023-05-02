@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace DAL
 {
@@ -27,6 +28,61 @@ namespace DAL
             string id = cmd.ExecuteScalar().ToString();
             data.Disconnection();
             return id;
+        }
+
+        public int getTotalCash()
+        {
+            data.Connection();
+            string query = "select BillPrice from Bill";
+            SqlCommand cmd = new SqlCommand(query, data.Conn);
+            SqlDataReader reader = cmd.ExecuteReader();
+            int total = 0;
+            while (reader.Read())
+            {
+                total += Convert.ToInt32(reader[0].ToString());
+            }
+            data.Disconnection();
+            return total;
+        }
+
+        public bool removeAll()
+        {
+            data.Connection();
+            string query0 = "delete from BillDetailForService";
+            SqlCommand cmd0 = new SqlCommand(query0, data.Conn);
+            int res0 = cmd0.ExecuteNonQuery();
+            if (res0 > 0)
+            {
+                string query1 = "delete from BillDetail";
+                SqlCommand cmd1 = new SqlCommand(query1, data.Conn);
+                int res1 = cmd1.ExecuteNonQuery();
+                if (res1 > 0)
+                {
+                    string query = "delete from Bill";
+                    SqlCommand cmd = new SqlCommand(query, data.Conn);
+                    int res = cmd.ExecuteNonQuery();
+                    data.Disconnection();
+                    if (res > 0)
+                    {
+                        return true;
+                    }
+                    MessageBox.Show("3");
+                    return false;
+                }
+                else
+                {
+                    MessageBox.Show("2");
+                    data.Disconnection();
+                    return false;
+                }
+            }
+            else
+            {
+                MessageBox.Show("1");
+                data.Disconnection();
+                return false;
+            }
+            
         }
 
         public bool add(string id, string cusid, int price, string staffid)
@@ -77,6 +133,19 @@ namespace DAL
                 return true;
             }
             return false;
+        }
+
+        public DataTable searchById(string Id)
+        {
+            string query = "SELECT * FROM Bill WHERE BillID = @Id";
+            data.Connection();
+            SqlCommand cmd = new SqlCommand(query, data.Conn);
+            cmd.Parameters.AddWithValue("@Id", Id);
+            SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            data.Disconnection();
+            return dt;
         }
     }
 }

@@ -30,7 +30,6 @@
         {
             btn_search = new CButton();
             txt_search = new TextBox();
-            label1 = new Label();
             pictureBox1 = new PictureBox();
             groupBox1 = new GroupBox();
             txt_type = new TextBox();
@@ -78,18 +77,6 @@
             txt_search.Name = "txt_search";
             txt_search.Size = new Size(591, 40);
             txt_search.TabIndex = 53;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.FromArgb(48, 48, 48);
-            label1.Font = new Font("Bahnschrift", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(1056, 25);
-            label1.Name = "label1";
-            label1.Size = new Size(101, 24);
-            label1.TabIndex = 51;
-            label1.Text = "Đăng xuất";
             // 
             // pictureBox1
             // 
@@ -264,7 +251,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             Controls.Add(btn_search);
             Controls.Add(txt_search);
-            Controls.Add(label1);
             Controls.Add(pictureBox1);
             Controls.Add(groupBox1);
             Name = "Customer_co";
@@ -282,7 +268,6 @@
 
         private CButton btn_search;
         private TextBox txt_search;
-        private Label label1;
         private PictureBox pictureBox1;
         private GroupBox groupBox1;
         private TextBox txt_type;

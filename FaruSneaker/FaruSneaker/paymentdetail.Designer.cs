@@ -34,11 +34,9 @@
             rtx_Price = new TextBox();
             rtx_PName = new TextBox();
             rtx_PID = new TextBox();
-            btn_Update = new Button();
             groupBox1 = new GroupBox();
             dgv_choose = new DataGridView();
             btn_Remove = new Button();
-            btn_Pay = new Button();
             dgv_product = new DataGridView();
             nbr_Num = new NumericUpDown();
             btn_Add = new Button();
@@ -63,10 +61,8 @@
             groupBox2.Controls.Add(rtx_Price);
             groupBox2.Controls.Add(rtx_PName);
             groupBox2.Controls.Add(rtx_PID);
-            groupBox2.Controls.Add(btn_Update);
             groupBox2.Controls.Add(groupBox1);
             groupBox2.Controls.Add(btn_Remove);
-            groupBox2.Controls.Add(btn_Pay);
             groupBox2.Controls.Add(dgv_product);
             groupBox2.Controls.Add(nbr_Num);
             groupBox2.Controls.Add(btn_Add);
@@ -119,18 +115,6 @@
             rtx_PID.Size = new Size(234, 32);
             rtx_PID.TabIndex = 104;
             // 
-            // btn_Update
-            // 
-            btn_Update.BackColor = Color.FromArgb(233, 197, 57);
-            btn_Update.ForeColor = Color.Black;
-            btn_Update.Location = new Point(550, 615);
-            btn_Update.Name = "btn_Update";
-            btn_Update.Size = new Size(194, 37);
-            btn_Update.TabIndex = 101;
-            btn_Update.Text = "Cập nhật";
-            btn_Update.UseVisualStyleBackColor = false;
-            btn_Update.Click += btn_Update_Click;
-            // 
             // groupBox1
             // 
             groupBox1.Controls.Add(dgv_choose);
@@ -155,24 +139,13 @@
             // 
             btn_Remove.BackColor = Color.FromArgb(233, 197, 57);
             btn_Remove.ForeColor = Color.Black;
-            btn_Remove.Location = new Point(283, 615);
+            btn_Remove.Location = new Point(330, 615);
             btn_Remove.Name = "btn_Remove";
             btn_Remove.Size = new Size(194, 37);
             btn_Remove.TabIndex = 97;
             btn_Remove.Text = "Xóa";
             btn_Remove.UseVisualStyleBackColor = false;
             btn_Remove.Click += btn_Remove_Click;
-            // 
-            // btn_Pay
-            // 
-            btn_Pay.BackColor = Color.FromArgb(233, 197, 57);
-            btn_Pay.ForeColor = Color.Black;
-            btn_Pay.Location = new Point(820, 615);
-            btn_Pay.Name = "btn_Pay";
-            btn_Pay.Size = new Size(194, 37);
-            btn_Pay.TabIndex = 96;
-            btn_Pay.Text = "Thanh toán";
-            btn_Pay.UseVisualStyleBackColor = false;
             // 
             // dgv_product
             // 
@@ -288,7 +261,6 @@
         private GroupBox groupBox2;
         private GroupBox groupBox1;
         private Button btn_Remove;
-        private Button btn_Pay;
         private DataGridView dgv_product;
         private NumericUpDown nbr_Num;
         private Button btn_Add;
@@ -299,7 +271,6 @@
         private Label label17;
         private Label label18;
         private DataGridView dgv_choose;
-        private Button btn_Update;
         private TextBox rtx_PID;
         private TextBox rtx_PName;
         private TextBox rtx_Price;

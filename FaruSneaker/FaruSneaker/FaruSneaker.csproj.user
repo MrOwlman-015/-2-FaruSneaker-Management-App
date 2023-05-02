@@ -17,6 +17,9 @@
     <Compile Update="Mainpage.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Mainpage_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Object\Account_co.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -35,6 +38,9 @@
     <Compile Update="Object\Service_co.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Object\Revenue_co.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="payment.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -42,6 +48,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Revenue.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="RJTextBox.cs">
@@ -54,6 +63,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="servicedetail.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Timek.cs">

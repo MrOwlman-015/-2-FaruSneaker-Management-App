@@ -1,0 +1,17 @@
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Test.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Test.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\obj\Debug\Test.csproj.CopyComplete
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\obj\Debug\Test.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\Test\obj\Debug\Test.pdb

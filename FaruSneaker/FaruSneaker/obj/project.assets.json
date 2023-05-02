@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HOC TAP\\PROJECT\\FaruSneaker_4\\FaruSneaker (4)\\FaruSneaker\\FaruSneaker\\FaruSneaker.csproj",
+      "projectUniqueName": "E:\\HOC TAP\\PROJECT\\GITPROJECT\\UPDATE\\FaruSneaker-Project\\FaruSneaker\\FaruSneaker\\FaruSneaker.csproj",
       "projectName": "FaruSneaker",
-      "projectPath": "E:\\HOC TAP\\PROJECT\\FaruSneaker_4\\FaruSneaker (4)\\FaruSneaker\\FaruSneaker\\FaruSneaker.csproj",
+      "projectPath": "E:\\HOC TAP\\PROJECT\\GITPROJECT\\UPDATE\\FaruSneaker-Project\\FaruSneaker\\FaruSneaker\\FaruSneaker.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\HOC TAP\\PROJECT\\FaruSneaker_4\\FaruSneaker (4)\\FaruSneaker\\FaruSneaker\\obj\\",
+      "outputPath": "E:\\HOC TAP\\PROJECT\\GITPROJECT\\UPDATE\\FaruSneaker-Project\\FaruSneaker\\FaruSneaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -584,8 +584,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\HOC TAP\\PROJECT\\FaruSneaker_4\\FaruSneaker (4)\\FaruSneaker\\BUS\\BUS.csproj": {
-              "projectPath": "E:\\HOC TAP\\PROJECT\\FaruSneaker_4\\FaruSneaker (4)\\FaruSneaker\\BUS\\BUS.csproj"
+            "E:\\HOC TAP\\PROJECT\\GITPROJECT\\UPDATE\\FaruSneaker-Project\\FaruSneaker\\BUS\\BUS.csproj": {
+              "projectPath": "E:\\HOC TAP\\PROJECT\\GITPROJECT\\UPDATE\\FaruSneaker-Project\\FaruSneaker\\BUS\\BUS.csproj"
             }
           }
         }

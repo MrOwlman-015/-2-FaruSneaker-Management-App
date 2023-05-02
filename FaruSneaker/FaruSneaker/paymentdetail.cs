@@ -17,10 +17,13 @@ namespace FaruSneaker
         public List<string> ListIdCus { get => listId; set => listId = value; }
         BillDetail_logic bl = new BillDetail_logic();
         Product_logic pd = new Product_logic();
-        int numRestore = 0;
+        private int numRestore = 0;
         private string id;
+        private int numOfProduct = 0;
 
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public paymentdetail(string id)
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         {
             InitializeComponent();
             this.id = id;
@@ -37,17 +40,16 @@ namespace FaruSneaker
             rtx_PName.ReadOnly = true;
             rtx_Price.ReadOnly = true;
             rtx_IntoCash.ReadOnly = true;
-            rtx_Discount.ReadOnly = true;
         }
 
         private bool isRowNullOrEmpty(DataGridViewRow row)
         {
             foreach (DataGridViewCell cell in row.Cells)
             {
-                if (cell.Value == null || cell.Value == DBNull.Value)
+                /*if (cell.Value == DBNull.Value)
                 {
                     return true;
-                }
+                }*/
 
                 if (cell.Value is string str && string.IsNullOrEmpty(str))
                 {
@@ -66,7 +68,6 @@ namespace FaruSneaker
             }
             btn_Add.Enabled = enable;
             btn_Remove.Enabled = enable;
-            btn_Update.Enabled = enable;
         }
 
         private void dgv_product_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -79,6 +80,7 @@ namespace FaruSneaker
                 rtx_PID.Text = row.Cells[0].Value.ToString();
                 rtx_PName.Text = row.Cells[1].Value.ToString();
                 rtx_Price.Text = row.Cells[2].Value.ToString();
+                this.numOfProduct = Convert.ToInt32(row.Cells[6].Value.ToString());
             }
         }
 
@@ -94,18 +96,57 @@ namespace FaruSneaker
             string id = rtx_PID.Text;
             string name = rtx_PName.Text;
             int num = Convert.ToInt32(nbr_Num.Value);
-            int price = Convert.ToInt32(rtx_Price.Text);
-            int voucher = 0;
-            if (rtx_Discount.Text != "")
+            if (num <= 0)
             {
-                voucher = Convert.ToInt32(rtx_Discount.Text);
-
+                MessageBox.Show("Số lượng không được bé hơn hoặc bằng 0!");
+                return;
             }
-            if (bl.add(this.id, id, num, price, voucher))
+            else
             {
-                Product_logic pl = new Product_logic();
-                pl.afterAdd(id, num);
-                load();
+                if (num > this.numOfProduct)
+                {
+                    MessageBox.Show("Số lượng nhập không được lớn hơn số lượng tồn của sản phẩm!");
+                    return;
+                }
+                else
+                {
+                    if (!bl.checkBillID(this.id, id))
+                    {
+                        int price = Convert.ToInt32(rtx_Price.Text);
+                        int voucher = 0;
+                        if (rtx_Discount.Text != "")
+                        {
+                            voucher = Convert.ToInt32(rtx_Discount.Text);
+
+                        }
+                        if (bl.add(this.id, id, num, price, voucher))
+                        {
+                            Product_logic pl = new Product_logic();
+                            pl.afterAdd(id, num);
+                            load();
+                        }
+                    }
+                    else
+                    {
+                        DataTable dt = bl.getProductByID(this.id, id);
+                        DataRow row = dt.Rows[0];
+                        int numberAlreadyInBill = Convert.ToInt32(row[2].ToString());
+                        num += numberAlreadyInBill;
+                        int price = Convert.ToInt32(rtx_Price.Text);
+                        int voucher = 0;
+                        if (rtx_Discount.Text != "")
+                        {
+                            voucher = Convert.ToInt32(rtx_Discount.Text);
+
+                        }
+                        if (bl.update(this.id, id, num, price, voucher))
+                        {
+                            Product_logic pl = new Product_logic();
+                            pl.afterAdd(id, num);
+                            load();
+                        }
+                    }
+                }
             }
         }
 
@@ -159,7 +200,10 @@ namespace FaruSneaker
 
                 foreach (DataRow row in dt.Rows)
                 {
-                    listId.Add(row[0].ToString());
+                    if (row[0].ToString() != null)
+                    {
+                        listId.Add(row[0].ToString());
+                    }
                 }
 
                 ListIdCus = listId;

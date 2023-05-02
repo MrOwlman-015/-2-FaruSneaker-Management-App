@@ -5,6 +5,7 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using DAL;
 
 namespace BUS
@@ -34,7 +35,7 @@ namespace BUS
 
         public bool update(string username, string password, int roleuser)
         {
-            return data.add(username, password, roleuser);
+            return data.update(username, password, roleuser);
         }
 
         public bool delete(string username) { return data.delete(username); }

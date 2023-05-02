@@ -34,3 +34,40 @@ E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\BUS\obj\Debug\BUS.c
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\BUS\obj\Debug\BUS.csproj.CopyComplete
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\BUS\obj\Debug\BUS.dll
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\BUS\obj\Debug\BUS.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.dll
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.dll
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.pdb
+G:\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.dll
+G:\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\BUS.pdb
+G:\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.dll
+G:\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.pdb
+G:\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+G:\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.dll
+G:\FaruSneaker-Project\FaruSneaker\BUS\obj\Debug\BUS.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\BUS\bin\Debug\DAL.dll.config

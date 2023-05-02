@@ -111,5 +111,19 @@ namespace DAL
                 return false;
             }
         }
+
+        public DataTable searchByName(string name)
+        {
+            string query = $"SELECT * FROM ServiceForItem WHERE ServiceName LIKE N'%{name}%'";
+            data.Connection();
+            SqlCommand cmd = new SqlCommand(query, data.Conn);
+            cmd.Parameters.AddWithValue("@Name", name);
+            SqlDataReader reader = cmd.ExecuteReader();
+            DataTable table = new DataTable();
+            table.Load(reader);
+            reader.Close();
+            data.Disconnection();
+            return table;
+        }
     }
 }

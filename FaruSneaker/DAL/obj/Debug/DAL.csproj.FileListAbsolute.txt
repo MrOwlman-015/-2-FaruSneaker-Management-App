@@ -22,3 +22,45 @@ E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.c
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.dll
 E:\HOC TAP\PROJECT\FaruSneaker_4\FaruSneaker (4)\FaruSneaker\DAL\obj\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.pdb
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.dll
+G:\University\HKII năm 2\Software LT\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.pdb
+G:\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.dll
+G:\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.pdb
+G:\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.dll
+G:\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.pdb
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\DAL.dll.config
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.Identity.Client.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\HOC TAP\PROJECT\GITPROJECT\UPDATE\FaruSneaker-Project\FaruSneaker\DAL\obj\Debug\DAL.csproj.CopyComplete

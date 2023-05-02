@@ -130,7 +130,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Timek";
-            this.Text = "Timek";
+            this.Text = "Chấm công";
             ((System.ComponentModel.ISupportInitialize)(this.dgv_timek)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

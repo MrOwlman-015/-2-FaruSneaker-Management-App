@@ -102,11 +102,19 @@ create table BillDetail (
 	ProductPrice int not null,
 	Voucher int not null,
 	primary key(BillID, ProductID),
-	constraint billdetail_id_bill foreign key(BillID) references Bill(BillID),
-	constraint billdetail_id_product foreign key(ProductID) references Product(ProductID)
+	foreign key(BillID) references Bill(BillID),
+	foreign key(ProductID) references Product(ProductID)
 )
 
-
+create table BillDetailForService (
+	BillID varchar(10) not null,
+	ServiceID varchar(10) not null,
+	ServicePrice int, 
+	ServiceDes nvarchar(100),
+	primary key(BillID, ServiceID),
+	foreign key(BillID) references Bill(BillID),
+	foreign key(ServiceID) references Product(ProductID)
+)
 
 
 insert into dbo.UserRole 

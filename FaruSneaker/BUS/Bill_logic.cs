@@ -22,6 +22,16 @@ namespace BUS
             return data.getCurrentID();
         }
 
+        public int getTotalCash()
+        {
+            return data.getTotalCash();
+        }
+
+        public bool removeAll()
+        {
+            return data.removeAll();
+        }
+
         public bool add(string id, string cusid, int price, string staffid)
         {
             return data.add(id, cusid, price, staffid);
@@ -35,6 +45,11 @@ namespace BUS
         public bool update(string id, string cusid, int price, string staffid)
         {
             return data.update(id, cusid, price, staffid) ;
+        }
+
+        public DataTable searchById(string Id)
+        {
+            return data.searchById(Id);
         }
     }
 }

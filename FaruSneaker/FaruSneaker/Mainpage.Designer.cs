@@ -28,311 +28,341 @@
         /// </summary>
         private void InitializeComponent()
         {
-            splitContainer1 = new SplitContainer();
-            btn_employ = new Button();
-            panel7 = new Panel();
-            btn_ser = new Button();
-            pictureBox2 = new PictureBox();
-            panel6 = new Panel();
-            btn_pay = new Button();
-            panel5 = new Panel();
-            btn_product = new Button();
-            panel4 = new Panel();
-            btn_customer = new Button();
-            panel2 = new Panel();
-            btn_account = new Button();
-            panel1 = new Panel();
-            btn_home = new Button();
-            account_co1 = new Object.Account_co();
-            service_co1 = new Object.Service_co();
-            products_co1 = new Object.Products_co();
-            payment_co1 = new Object.Payment_co();
-            employee_co1 = new Object.Employee_co();
-            customer_co1 = new Object.Customer_co();
-            ((System.ComponentModel.ISupportInitialize)splitContainer1).BeginInit();
-            splitContainer1.Panel1.SuspendLayout();
-            splitContainer1.Panel2.SuspendLayout();
-            splitContainer1.SuspendLayout();
-            panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
-            panel6.SuspendLayout();
-            panel5.SuspendLayout();
-            panel4.SuspendLayout();
-            panel2.SuspendLayout();
-            panel1.SuspendLayout();
-            SuspendLayout();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.btn_ser = new System.Windows.Forms.Button();
+            this.btn_employ = new System.Windows.Forms.Button();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.btn_pay = new System.Windows.Forms.Button();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.btn_product = new System.Windows.Forms.Button();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.btn_customer = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.btn_account = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.btn_home = new System.Windows.Forms.Button();
+            this.payment_co2 = new FaruSneaker.Object.Payment_co();
+            this.revenue_co2 = new FaruSneaker.Object.Revenue_co();
+            this.account_co1 = new FaruSneaker.Object.Account_co();
+            this.service_co1 = new FaruSneaker.Object.Service_co();
+            this.products_co1 = new FaruSneaker.Object.Products_co();
+            this.payment_co1 = new FaruSneaker.Object.Payment_co();
+            this.employee_co1 = new FaruSneaker.Object.Employee_co();
+            this.customer_co1 = new FaruSneaker.Object.Customer_co();
+            this.revenue_co1 = new FaruSneaker.Object.Revenue_co();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+            this.splitContainer1.Panel1.SuspendLayout();
+            this.splitContainer1.Panel2.SuspendLayout();
+            this.splitContainer1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.panel6.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.SuspendLayout();
             // 
             // splitContainer1
             // 
-            splitContainer1.Dock = DockStyle.Fill;
-            splitContainer1.Location = new Point(0, 0);
-            splitContainer1.Name = "splitContainer1";
+            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer1.Name = "splitContainer1";
             // 
             // splitContainer1.Panel1
             // 
-            splitContainer1.Panel1.BackColor = Color.FromArgb(223, 194, 57);
-            splitContainer1.Panel1.BackgroundImageLayout = ImageLayout.Stretch;
-            splitContainer1.Panel1.Controls.Add(btn_employ);
-            splitContainer1.Panel1.Controls.Add(panel7);
-            splitContainer1.Panel1.Controls.Add(pictureBox2);
-            splitContainer1.Panel1.Controls.Add(panel6);
-            splitContainer1.Panel1.Controls.Add(panel5);
-            splitContainer1.Panel1.Controls.Add(panel4);
-            splitContainer1.Panel1.Controls.Add(panel2);
-            splitContainer1.Panel1.Controls.Add(panel1);
+            this.splitContainer1.Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.splitContainer1.Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.splitContainer1.Panel1.Controls.Add(this.btn_ser);
+            this.splitContainer1.Panel1.Controls.Add(this.btn_employ);
+            this.splitContainer1.Panel1.Controls.Add(this.panel7);
+            this.splitContainer1.Panel1.Controls.Add(this.pictureBox2);
+            this.splitContainer1.Panel1.Controls.Add(this.panel6);
+            this.splitContainer1.Panel1.Controls.Add(this.panel5);
+            this.splitContainer1.Panel1.Controls.Add(this.panel4);
+            this.splitContainer1.Panel1.Controls.Add(this.panel2);
+            this.splitContainer1.Panel1.Controls.Add(this.panel1);
             // 
             // splitContainer1.Panel2
             // 
-            splitContainer1.Panel2.Controls.Add(account_co1);
-            splitContainer1.Panel2.Controls.Add(service_co1);
-            splitContainer1.Panel2.Controls.Add(products_co1);
-            splitContainer1.Panel2.Controls.Add(payment_co1);
-            splitContainer1.Panel2.Controls.Add(employee_co1);
-            splitContainer1.Panel2.Controls.Add(customer_co1);
-            splitContainer1.Size = new Size(1376, 704);
-            splitContainer1.SplitterDistance = 192;
-            splitContainer1.TabIndex = 0;
-            // 
-            // btn_employ
-            // 
-            btn_employ.BackColor = Color.FromArgb(223, 194, 57);
-            btn_employ.FlatAppearance.BorderSize = 0;
-            btn_employ.FlatStyle = FlatStyle.Flat;
-            btn_employ.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_employ.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_employ.Location = new Point(3, 290);
-            btn_employ.Name = "btn_employ";
-            btn_employ.Size = new Size(189, 58);
-            btn_employ.TabIndex = 2;
-            btn_employ.Text = "Nhân viên";
-            btn_employ.UseVisualStyleBackColor = false;
-            btn_employ.Click += btn_employ_Click;
-            // 
-            // panel7
-            // 
-            panel7.BackColor = Color.Transparent;
-            panel7.Controls.Add(btn_ser);
-            panel7.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel7.Location = new Point(6, 476);
-            panel7.Name = "panel7";
-            panel7.Size = new Size(186, 58);
-            panel7.TabIndex = 8;
+            this.splitContainer1.Panel2.Controls.Add(this.payment_co2);
+            this.splitContainer1.Panel2.Controls.Add(this.revenue_co2);
+            this.splitContainer1.Panel2.Controls.Add(this.account_co1);
+            this.splitContainer1.Panel2.Controls.Add(this.service_co1);
+            this.splitContainer1.Panel2.Controls.Add(this.products_co1);
+            this.splitContainer1.Panel2.Controls.Add(this.payment_co1);
+            this.splitContainer1.Panel2.Controls.Add(this.employee_co1);
+            this.splitContainer1.Panel2.Controls.Add(this.customer_co1);
+            this.splitContainer1.Size = new System.Drawing.Size(1376, 704);
+            this.splitContainer1.SplitterDistance = 192;
+            this.splitContainer1.TabIndex = 0;
             // 
             // btn_ser
             // 
-            btn_ser.BackColor = Color.FromArgb(223, 194, 57);
-            btn_ser.FlatAppearance.BorderSize = 0;
-            btn_ser.FlatStyle = FlatStyle.Flat;
-            btn_ser.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_ser.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_ser.Location = new Point(6, 0);
-            btn_ser.Name = "btn_ser";
-            btn_ser.Size = new Size(155, 58);
-            btn_ser.TabIndex = 10;
-            btn_ser.Text = "Dịch vụ";
-            btn_ser.UseVisualStyleBackColor = false;
-            btn_ser.Click += btn_ser_Click;
+            this.btn_ser.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_ser.FlatAppearance.BorderSize = 0;
+            this.btn_ser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_ser.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_ser.Image = global::FaruSneaker.Properties.Resources.service;
+            this.btn_ser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_ser.Location = new System.Drawing.Point(6, 476);
+            this.btn_ser.Name = "btn_ser";
+            this.btn_ser.Size = new System.Drawing.Size(186, 58);
+            this.btn_ser.TabIndex = 10;
+            this.btn_ser.Text = "Dịch vụ";
+            this.btn_ser.UseVisualStyleBackColor = false;
+            this.btn_ser.Click += new System.EventHandler(this.btn_ser_Click);
+            // 
+            // btn_employ
+            // 
+            this.btn_employ.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_employ.FlatAppearance.BorderSize = 0;
+            this.btn_employ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_employ.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_employ.Image = global::FaruSneaker.Properties.Resources.employees;
+            this.btn_employ.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_employ.Location = new System.Drawing.Point(3, 290);
+            this.btn_employ.Name = "btn_employ";
+            this.btn_employ.Size = new System.Drawing.Size(189, 58);
+            this.btn_employ.TabIndex = 2;
+            this.btn_employ.Text = "Nhân viên";
+            this.btn_employ.UseVisualStyleBackColor = false;
+            this.btn_employ.Click += new System.EventHandler(this.btn_employ_Click_1);
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.Transparent;
+            this.panel7.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel7.Location = new System.Drawing.Point(6, 476);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(186, 58);
+            this.panel7.TabIndex = 8;
             // 
             // pictureBox2
             // 
-            pictureBox2.BackColor = Color.Transparent;
-            pictureBox2.Image = Properties.Resources.logo;
-            pictureBox2.Location = new Point(3, 5);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(189, 164);
-            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox2.TabIndex = 8;
-            pictureBox2.TabStop = false;
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.Image = global::FaruSneaker.Properties.Resources.logo;
+            this.pictureBox2.Location = new System.Drawing.Point(3, 5);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(189, 164);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 8;
+            this.pictureBox2.TabStop = false;
             // 
             // panel6
             // 
-            panel6.BackColor = Color.Transparent;
-            panel6.Controls.Add(btn_pay);
-            panel6.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel6.Location = new Point(6, 537);
-            panel6.Name = "panel6";
-            panel6.Size = new Size(186, 58);
-            panel6.TabIndex = 7;
+            this.panel6.BackColor = System.Drawing.Color.Transparent;
+            this.panel6.Controls.Add(this.btn_pay);
+            this.panel6.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel6.Location = new System.Drawing.Point(6, 537);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(186, 58);
+            this.panel6.TabIndex = 7;
             // 
             // btn_pay
             // 
-            btn_pay.BackColor = Color.FromArgb(223, 194, 57);
-            btn_pay.FlatAppearance.BorderSize = 0;
-            btn_pay.FlatStyle = FlatStyle.Flat;
-            btn_pay.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_pay.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_pay.Location = new Point(-6, -3);
-            btn_pay.Name = "btn_pay";
-            btn_pay.Size = new Size(195, 58);
-            btn_pay.TabIndex = 11;
-            btn_pay.Text = "Thanh toán";
-            btn_pay.UseVisualStyleBackColor = false;
-            btn_pay.Click += btn_pay_Click;
+            this.btn_pay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_pay.FlatAppearance.BorderSize = 0;
+            this.btn_pay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_pay.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_pay.Image = global::FaruSneaker.Properties.Resources.pay;
+            this.btn_pay.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_pay.Location = new System.Drawing.Point(-3, 3);
+            this.btn_pay.Name = "btn_pay";
+            this.btn_pay.Size = new System.Drawing.Size(186, 58);
+            this.btn_pay.TabIndex = 11;
+            this.btn_pay.Text = "Thanh toán";
+            this.btn_pay.UseVisualStyleBackColor = false;
+            this.btn_pay.Click += new System.EventHandler(this.btn_pay_Click);
             // 
             // panel5
             // 
-            panel5.BackColor = Color.Transparent;
-            panel5.Controls.Add(btn_product);
-            panel5.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel5.Location = new Point(6, 415);
-            panel5.Name = "panel5";
-            panel5.Size = new Size(186, 58);
-            panel5.TabIndex = 6;
+            this.panel5.BackColor = System.Drawing.Color.Transparent;
+            this.panel5.Controls.Add(this.btn_product);
+            this.panel5.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel5.Location = new System.Drawing.Point(6, 415);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(186, 58);
+            this.panel5.TabIndex = 6;
             // 
             // btn_product
             // 
-            btn_product.BackColor = Color.FromArgb(223, 194, 57);
-            btn_product.FlatAppearance.BorderSize = 0;
-            btn_product.FlatStyle = FlatStyle.Flat;
-            btn_product.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_product.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_product.Location = new Point(0, 0);
-            btn_product.Name = "btn_product";
-            btn_product.Size = new Size(183, 58);
-            btn_product.TabIndex = 9;
-            btn_product.Text = "Sản phẩm";
-            btn_product.UseVisualStyleBackColor = false;
-            btn_product.Click += btn_product_Click;
+            this.btn_product.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_product.FlatAppearance.BorderSize = 0;
+            this.btn_product.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_product.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_product.Image = global::FaruSneaker.Properties.Resources.sneaker;
+            this.btn_product.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_product.Location = new System.Drawing.Point(0, 0);
+            this.btn_product.Name = "btn_product";
+            this.btn_product.Size = new System.Drawing.Size(183, 58);
+            this.btn_product.TabIndex = 9;
+            this.btn_product.Text = "Sản phẩm";
+            this.btn_product.UseVisualStyleBackColor = false;
+            this.btn_product.Click += new System.EventHandler(this.btn_product_Click);
             // 
             // panel4
             // 
-            panel4.BackColor = Color.Transparent;
-            panel4.Controls.Add(btn_customer);
-            panel4.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel4.Location = new Point(6, 354);
-            panel4.Name = "panel4";
-            panel4.Size = new Size(186, 58);
-            panel4.TabIndex = 5;
+            this.panel4.BackColor = System.Drawing.Color.Transparent;
+            this.panel4.Controls.Add(this.btn_customer);
+            this.panel4.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel4.Location = new System.Drawing.Point(6, 354);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(186, 58);
+            this.panel4.TabIndex = 5;
             // 
             // btn_customer
             // 
-            btn_customer.BackColor = Color.FromArgb(223, 194, 57);
-            btn_customer.FlatAppearance.BorderSize = 0;
-            btn_customer.FlatStyle = FlatStyle.Flat;
-            btn_customer.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_customer.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_customer.Location = new Point(-6, 0);
-            btn_customer.Name = "btn_customer";
-            btn_customer.Size = new Size(208, 58);
-            btn_customer.TabIndex = 2;
-            btn_customer.Text = "Khách hàng";
-            btn_customer.UseVisualStyleBackColor = false;
-            btn_customer.Click += btn_customer_Click;
+            this.btn_customer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_customer.FlatAppearance.BorderSize = 0;
+            this.btn_customer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_customer.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_customer.Image = global::FaruSneaker.Properties.Resources.customer1;
+            this.btn_customer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_customer.Location = new System.Drawing.Point(-6, 0);
+            this.btn_customer.Name = "btn_customer";
+            this.btn_customer.Size = new System.Drawing.Size(195, 58);
+            this.btn_customer.TabIndex = 2;
+            this.btn_customer.Text = "Khách hàng";
+            this.btn_customer.UseVisualStyleBackColor = false;
+            this.btn_customer.Click += new System.EventHandler(this.btn_customer_Click);
             // 
             // panel2
             // 
-            panel2.BackColor = Color.Transparent;
-            panel2.Controls.Add(btn_account);
-            panel2.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel2.Location = new Point(3, 232);
-            panel2.Name = "panel2";
-            panel2.Size = new Size(186, 58);
-            panel2.TabIndex = 3;
+            this.panel2.BackColor = System.Drawing.Color.Transparent;
+            this.panel2.Controls.Add(this.btn_account);
+            this.panel2.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel2.Location = new System.Drawing.Point(3, 232);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(186, 58);
+            this.panel2.TabIndex = 3;
             // 
             // btn_account
             // 
-            btn_account.BackColor = Color.FromArgb(223, 194, 57);
-            btn_account.FlatAppearance.BorderSize = 0;
-            btn_account.FlatStyle = FlatStyle.Flat;
-            btn_account.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_account.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_account.Location = new Point(-3, 0);
-            btn_account.Name = "btn_account";
-            btn_account.Size = new Size(192, 58);
-            btn_account.TabIndex = 1;
-            btn_account.Text = "Tài khoản";
-            btn_account.UseVisualStyleBackColor = false;
-            btn_account.Click += btn_account_Click;
+            this.btn_account.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_account.FlatAppearance.BorderSize = 0;
+            this.btn_account.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_account.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_account.Image = global::FaruSneaker.Properties.Resources.acc1;
+            this.btn_account.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_account.Location = new System.Drawing.Point(-3, 0);
+            this.btn_account.Name = "btn_account";
+            this.btn_account.Size = new System.Drawing.Size(192, 58);
+            this.btn_account.TabIndex = 1;
+            this.btn_account.Text = "Tài khoản";
+            this.btn_account.UseVisualStyleBackColor = false;
+            this.btn_account.Click += new System.EventHandler(this.btn_account_Click_1);
             // 
             // panel1
             // 
-            panel1.BackColor = Color.Transparent;
-            panel1.Controls.Add(btn_home);
-            panel1.Font = new Font("Tahoma", 7.2F, FontStyle.Regular, GraphicsUnit.Point);
-            panel1.Location = new Point(3, 171);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(186, 58);
-            panel1.TabIndex = 2;
+            this.panel1.BackColor = System.Drawing.Color.Transparent;
+            this.panel1.Controls.Add(this.btn_home);
+            this.panel1.Font = new System.Drawing.Font("Tahoma", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.panel1.Location = new System.Drawing.Point(3, 171);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(186, 58);
+            this.panel1.TabIndex = 2;
             // 
             // btn_home
             // 
-            btn_home.BackColor = Color.FromArgb(223, 194, 57);
-            btn_home.FlatAppearance.BorderSize = 0;
-            btn_home.FlatStyle = FlatStyle.Flat;
-            btn_home.Font = new Font("Bahnschrift Condensed", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_home.Image = Properties.Resources.homeicons1;
-            btn_home.ImageAlign = ContentAlignment.MiddleLeft;
-            btn_home.Location = new Point(-3, 4);
-            btn_home.Name = "btn_home";
-            btn_home.Size = new Size(192, 58);
-            btn_home.TabIndex = 0;
-            btn_home.Text = "Trang chủ";
-            btn_home.UseVisualStyleBackColor = false;
-            btn_home.Click += btn_home_Click;
+            this.btn_home.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(194)))), ((int)(((byte)(57)))));
+            this.btn_home.FlatAppearance.BorderSize = 0;
+            this.btn_home.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_home.Font = new System.Drawing.Font("Bahnschrift Condensed", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_home.Image = global::FaruSneaker.Properties.Resources.homeicons1;
+            this.btn_home.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_home.Location = new System.Drawing.Point(-3, 4);
+            this.btn_home.Name = "btn_home";
+            this.btn_home.Size = new System.Drawing.Size(192, 58);
+            this.btn_home.TabIndex = 0;
+            this.btn_home.Text = "Trang chủ";
+            this.btn_home.UseVisualStyleBackColor = false;
+            this.btn_home.Click += new System.EventHandler(this.btn_home_Click_1);
+            // 
+            // payment_co2
+            // 
+            this.payment_co2.Location = new System.Drawing.Point(3, 5);
+            this.payment_co2.Name = "payment_co2";
+            this.payment_co2.Size = new System.Drawing.Size(1475, 911);
+            this.payment_co2.TabIndex = 1;
+            // 
+            // revenue_co2
+            // 
+            this.revenue_co2.Location = new System.Drawing.Point(3, 3);
+            this.revenue_co2.Name = "revenue_co2";
+            this.revenue_co2.Size = new System.Drawing.Size(1472, 830);
+            this.revenue_co2.TabIndex = 1;
             // 
             // account_co1
             // 
-            account_co1.Location = new Point(2, 3);
-            account_co1.Name = "account_co1";
-            account_co1.Size = new Size(1179, 709);
-            account_co1.TabIndex = 1;
+            this.account_co1.Location = new System.Drawing.Point(2, 3);
+            this.account_co1.Name = "account_co1";
+            this.account_co1.Size = new System.Drawing.Size(1179, 709);
+            this.account_co1.TabIndex = 1;
             // 
             // service_co1
             // 
-            service_co1.Location = new Point(-1, 0);
-            service_co1.Name = "service_co1";
-            service_co1.Size = new Size(1181, 701);
-            service_co1.TabIndex = 1;
+            this.service_co1.Location = new System.Drawing.Point(-1, 0);
+            this.service_co1.Name = "service_co1";
+            this.service_co1.Size = new System.Drawing.Size(1181, 701);
+            this.service_co1.TabIndex = 1;
             // 
             // products_co1
             // 
-            products_co1.Location = new Point(1, 1);
-            products_co1.Name = "products_co1";
-            products_co1.Size = new Size(1176, 830);
-            products_co1.TabIndex = 1;
+            this.products_co1.Location = new System.Drawing.Point(1, 1);
+            this.products_co1.Name = "products_co1";
+            this.products_co1.Size = new System.Drawing.Size(1176, 830);
+            this.products_co1.TabIndex = 1;
             // 
             // payment_co1
             // 
-            payment_co1.Location = new Point(-1, 3);
-            payment_co1.Name = "payment_co1";
-            payment_co1.Size = new Size(1177, 738);
-            payment_co1.TabIndex = 1;
-            payment_co1.Load += payment_co1_Load;
+            this.payment_co1.Location = new System.Drawing.Point(-1, 3);
+            this.payment_co1.Name = "payment_co1";
+            this.payment_co1.Size = new System.Drawing.Size(1177, 738);
+            this.payment_co1.TabIndex = 1;
             // 
             // employee_co1
             // 
-            employee_co1.Location = new Point(-4, 1);
-            employee_co1.Name = "employee_co1";
-            employee_co1.Size = new Size(1184, 703);
-            employee_co1.TabIndex = 1;
+            this.employee_co1.Location = new System.Drawing.Point(-4, 1);
+            this.employee_co1.Name = "employee_co1";
+            this.employee_co1.Size = new System.Drawing.Size(1184, 703);
+            this.employee_co1.TabIndex = 1;
             // 
             // customer_co1
             // 
-            customer_co1.Location = new Point(-1, 0);
-            customer_co1.Name = "customer_co1";
-            customer_co1.Size = new Size(1179, 697);
-            customer_co1.TabIndex = 1;
+            this.customer_co1.Location = new System.Drawing.Point(-1, 0);
+            this.customer_co1.Name = "customer_co1";
+            this.customer_co1.Size = new System.Drawing.Size(1179, 697);
+            this.customer_co1.TabIndex = 1;
+            // 
+            // revenue_co1
+            // 
+            this.revenue_co1.Location = new System.Drawing.Point(-4, 1);
+            this.revenue_co1.Name = "revenue_co1";
+            this.revenue_co1.Size = new System.Drawing.Size(1178, 664);
+            this.revenue_co1.TabIndex = 1;
             // 
             // Mainpage
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1376, 704);
-            Controls.Add(splitContainer1);
-            Name = "Mainpage";
-            Text = "TRANG CHỦ";
-            splitContainer1.Panel1.ResumeLayout(false);
-            splitContainer1.Panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)splitContainer1).EndInit();
-            splitContainer1.ResumeLayout(false);
-            panel7.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
-            panel6.ResumeLayout(false);
-            panel5.ResumeLayout(false);
-            panel4.ResumeLayout(false);
-            panel2.ResumeLayout(false);
-            panel1.ResumeLayout(false);
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1376, 704);
+            this.Controls.Add(this.splitContainer1);
+            this.Name = "Mainpage";
+            this.Text = "Faru Sneaker";
+            this.splitContainer1.Panel1.ResumeLayout(false);
+            this.splitContainer1.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+            this.splitContainer1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel6.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
@@ -358,5 +388,8 @@
         private Object.Service_co service_co1;
         private Object.Products_co products_co1;
         private Object.Account_co account_co1;
+        private Object.Revenue_co revenue_co1;
+        private Object.Revenue_co revenue_co2;
+        private Object.Payment_co payment_co2;
     }
 }

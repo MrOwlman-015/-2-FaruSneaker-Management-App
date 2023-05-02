@@ -31,5 +31,10 @@ namespace BUS
         {
             return data.update(id, name, price, description);
         }
+
+        public DataTable searchByName(string name)
+        {
+            return data.searchByName(name);
+        }
     }
 }

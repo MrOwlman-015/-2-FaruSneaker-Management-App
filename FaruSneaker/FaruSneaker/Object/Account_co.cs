@@ -26,29 +26,49 @@ namespace FaruSneaker.Object
             table_ACC.DataSource = data.load();
         }
 
+        private void reset()
+        {
+            txt_accname.Text = "";
+            txt_accpass.Text = "";
+            txt_accrole.Text = "";
+            table_ACC.ClearSelection();
+        }
+
         private void btn_add_Click(object sender, EventArgs e)
         {
-            string name = txt_accname.Text;
-            string pass = txt_accpass.Text;
-            int role = Int32.Parse(txt_accrole.Text);
-
-            if (!int.TryParse(txt_accrole.Text, out role))
+            if (txt_accname.Text == "" || txt_accpass.Text == "" || txt_accrole.Text == "")
             {
-                error.SetError(txt_accrole, "Xin nhập chữ số");
+                MessageBox.Show("Hãy đảm bảo đầy đủ nội dung trước khi thực hiện!");
                 return;
             }
             else
             {
-                error.Clear();
-            }
-            if (data.add(name, pass,role))
-            {
-                load();
+                string name = txt_accname.Text;
+                string pass = txt_accpass.Text;
+                int checkrole = 0;
 
-            }
-            else
-            {
-                MessageBox.Show("Trùng tên tài khoản");
+                if (!int.TryParse(txt_accrole.Text, out checkrole))
+                {
+                    error.SetError(txt_accrole, "Xin nhập chữ số");
+                    return;
+                }
+                else
+                {
+                    error.Clear();
+                }
+                int role = Int32.Parse(txt_accrole.Text);
+                if (data.add(name, pass, role))
+                {
+                    MessageBox.Show("Thành công!");
+                    reset();
+                    load();
+
+                }
+                else
+                {
+                    MessageBox.Show("Trùng tên tài khoản");
+                    return;
+                }
             }
         }
 
@@ -59,12 +79,14 @@ namespace FaruSneaker.Object
             {
                 if (data.delete(name))
                 {
+                    reset();
                     MessageBox.Show("Xóa thành công");
                     load();
                 }
                 else
                 {
                     MessageBox.Show("Không xóa thành công");
+                    return;
                 }
             }
         }
@@ -73,9 +95,9 @@ namespace FaruSneaker.Object
         {
             string name = txt_accname.Text;
             string pass = txt_accpass.Text;
-            int role = Int32.Parse(txt_accrole.Text);
+            int checkrole = 0;
 
-            if (!int.TryParse(txt_accrole.Text, out role))
+            if (!int.TryParse(txt_accrole.Text, out checkrole))
             {
                 error.SetError(txt_accrole, "Xin nhập chữ số");
                 return;
@@ -84,14 +106,18 @@ namespace FaruSneaker.Object
             {
                 error.Clear();
             }
+            int role = Int32.Parse(txt_accrole.Text);
             if (data.update(name, pass, role))
             {
+                MessageBox.Show("Thành công!");
+                reset();
                 load();
 
             }
             else
             {
                 MessageBox.Show("Trùng tên tài khoản, không thể cập nhật");
+                return;
             }
         }
 
@@ -101,7 +127,7 @@ namespace FaruSneaker.Object
             DataTable res = data.searchByName(searchid);
             if (res.Rows.Count == 0)
             {
-                MessageBox.Show("No employee found");
+                MessageBox.Show("Không tìm thấy tài khoản!");
                 load();
             }
             else
@@ -134,6 +160,11 @@ namespace FaruSneaker.Object
             txt_accname.Text = row.Cells["UserName"].Value.ToString();
             txt_accpass.Text = row.Cells["UserPassword"].Value.ToString();
             txt_accrole.Text = row.Cells["Roleuser"].Value.ToString();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

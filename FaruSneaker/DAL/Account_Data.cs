@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using System.Xml.Linq;
 
 namespace DAL
@@ -15,7 +16,7 @@ namespace DAL
 
         public bool check(string username, string password, int roleuser)
         {
-            int res = data.Sum_table("SELECT * FROM UserRole WHERE UserName = N'" + username + "' AND UserPassword = N'" + password + "' AND Roleuser = '" + roleuser + "'");
+            /*int res = data.Sum_table("SELECT * FROM UserRole WHERE UserName = N'" + username + "' AND UserPassword = N'" + password);
             if(res > 0)
             {
                 return true;
@@ -23,8 +24,25 @@ namespace DAL
             else
             {
                 return false;
+            }*/
+            data.Connection();
+            string query = "SELECT * FROM UserRole WHERE UserName = @username and UserPassword = @password";
+            SqlCommand cmd = new SqlCommand(query, data.Conn);
+            cmd.Parameters.AddWithValue("@username", username);
+            cmd.Parameters.AddWithValue("@password", password);
+            SqlDataReader reader = cmd.ExecuteReader();
+            reader.Read();
+            int role = Convert.ToInt32(reader[2].ToString());
+            if (role == roleuser)
+            {
+                reader.Close();
+                return true;
             }
-
+            else
+            {
+                reader.Close();
+                return false;
+            }
         }
 
         public DataTable load()
@@ -71,36 +89,21 @@ namespace DAL
          
         public bool update(string username, string password, int roleuser)
         {
-            int res = 0;
             data.Connection();
-            string query = "SELECT COUNT(*) FROM UserRole WHERE UserName = @Name";
+            string query = "UPDATE UserRole SET UserPassword = @Pass, Roleuser = @Role WHERE UserName = @Name";
             SqlCommand cmd = new SqlCommand(query, data.Conn);
             cmd.Parameters.AddWithValue("@Name", username);
-            res = (int)cmd.ExecuteScalar();
-
+            cmd.Parameters.AddWithValue("@Pass", password);
+            cmd.Parameters.AddWithValue("@Role", roleuser);
+            int res = cmd.ExecuteNonQuery();
+            data.Disconnection();
             if (res > 0)
             {
-                data.Disconnection();
-                return false;
+                return true;
             }
             else
             {
-                query = "UPDATE UserRole SET UserPassword = @Pass, Roleuser = @Role WHERE UserName = @Name";
-                cmd = new SqlCommand(query, data.Conn);
-                cmd.Parameters.AddWithValue("@Name", username);
-                cmd.Parameters.AddWithValue("@Pass", password);
-                cmd.Parameters.AddWithValue("@Role", roleuser);
-                res = cmd.ExecuteNonQuery();
-                data.Disconnection();
-
-                if (res > 0)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
+                return false;
             }
 
         }

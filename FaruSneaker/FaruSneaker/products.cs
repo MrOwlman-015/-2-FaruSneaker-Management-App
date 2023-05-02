@@ -70,7 +70,7 @@ namespace FaruSneaker
             int num = Convert.ToInt32(nbr_productNum.Value);
             int importprice = Convert.ToInt32(txt_importprice.Text);
             DateTime dt = dtm_productImportDate.Value;
-            if (pl.add(id, name, price, brand, color, size, num, importprice, dt, imageBytes))
+            if (pl.add(id, name, price, brand, color, size, num, importprice, dt))
             {
                 load();
             }
@@ -145,7 +145,7 @@ namespace FaruSneaker
             int num = Convert.ToInt32(nbr_productNum.Value);
             int importprice = Convert.ToInt32(txt_importprice.Text);
             DateTime dt = dtm_productImportDate.Value;
-            if (pl.update(id, name, price, brand, color, size, num, importprice, dt, imageBytes))
+            if (pl.update(id, name, price, brand, color, size, num, importprice, dt))
             {
                 load();
             }

@@ -43,7 +43,6 @@
             lbl_ID = new Label();
             lbl_Description = new Label();
             lbl_Name = new Label();
-            label1 = new Label();
             pictureBox1 = new PictureBox();
             btn_search = new CButton();
             txt_search = new TextBox();
@@ -216,18 +215,6 @@
             lbl_Name.TabIndex = 11;
             lbl_Name.Text = "Tên dịch vụ";
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.FromArgb(48, 48, 48);
-            label1.Font = new Font("Bahnschrift", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(1059, 28);
-            label1.Name = "label1";
-            label1.Size = new Size(101, 24);
-            label1.TabIndex = 9;
-            label1.Text = "Đăng xuất";
-            // 
             // pictureBox1
             // 
             pictureBox1.BackColor = Color.FromArgb(48, 48, 48);
@@ -256,6 +243,7 @@
             btn_search.TabIndex = 54;
             btn_search.TextColor = Color.Transparent;
             btn_search.UseVisualStyleBackColor = false;
+            btn_search.Click += btn_search_Click;
             // 
             // txt_search
             // 
@@ -273,7 +261,6 @@
             Controls.Add(btn_search);
             Controls.Add(txt_search);
             Controls.Add(groupBox1);
-            Controls.Add(label1);
             Controls.Add(pictureBox1);
             Name = "Service_co";
             Size = new Size(1182, 711);
@@ -303,7 +290,6 @@
         private Label lbl_ID;
         private Label lbl_Description;
         private Label lbl_Name;
-        private Label label1;
         private PictureBox pictureBox1;
         private CButton btn_search;
         private TextBox txt_search;
